@@ -1,6 +1,8 @@
 # Regional Health Risk Mapping for Predictive Resource Allocation
 Sector: Public Health, Nigeria
+
 Type: Unsupervised Machine Learning, Geospatial Data Analysis
+
 Skills Used: Python (Pandas, Scikit-learn), Cluster Analysis (K-Means), Data Standardization, Data Visualization (Tableau), Policy Recommendation.
 
 ## I. Project Goal and Challenge
