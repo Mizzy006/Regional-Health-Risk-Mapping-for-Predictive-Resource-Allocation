@@ -32,34 +32,33 @@ Model Execution: The algorithm segmented the LGAs into four distinct groups, all
 
 The four clusters identified in the model represent four unique risk profiles. This finding is the basis for a four-tiered resource allocation strategy:
 
-## Critical Risk
+### Critical Risk
 
 Cluster Profile Summary: Low Population Density (Rural), Very High Poverty, Very High Disease Burden, Very Low PHC Access.
 
 Policy Recommendation (Action): MAXIMUM PRIORITY. Immediate deployment of mobile medical teams and emergency supply drops.
 
-## Moderate Risk
+### Moderate Risk
 
 Cluster Profile Summary: Moderate Poverty, Moderate Disease Burden, Average PHC Access Deficit.
 
 Policy Recommendation (Action): Sustained Intervention. Focused long-term public health campaigns and infrastructure upgrades.
 
-## Developing Urban, Low Risk
+### Developing Urban, Low Risk
 	
 Cluster Profile Summary: Near-Average metrics across the board. Stable condition but susceptible to shock.
 
 Policy Recommendation (Action): Preventative Monitoring. Routine surveillance and maintenance of current services.
 
-## Urban Elite,Low Risk
+### Urban Elite,Low Risk
 
 Cluster Profile Summary: High Population Density (Urban/Elite), Very Low Poverty, Excellent Sanitation/PHC Access.
 
 Policy Recommendation (Action): Resource Reallocation. Resources can be safely diverted from these areas to higher-need clusters.
 
-# Visualization (Tableau Output)
+## Visualization (Tableau Output)
 
 The final output is an interactive geospatial dashboard that maps the LGAs and color-codes them according to their assigned Risk Level. 
 
-IV. Conclusion
 
 This project demonstrates the immediate utility of Unsupervised Learning in solving large-scale public health inefficiencies. 
