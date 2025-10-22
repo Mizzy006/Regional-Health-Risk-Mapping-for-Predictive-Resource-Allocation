@@ -1,0 +1,51 @@
+LGA_ID,LGA_Name,Population_Density_Index,PHC_Access_Score,Sanitation_Deficit_Rate,Malaria_Prevalence_Rate,Poverty_Index,Rainfall_Index,Latitude,Longitude,Cluster,Cluster Name
+LGA001,Abeokuta North,0.78,0.34,0.65,0.72,0.81,0.55,7.15,3.37,1,"Developing Urban, Low Risk"
+LGA002,Oshodi Isolo,0.92,0.88,0.21,0.15,0.12,0.22,6.54,3.35,0,"Urban-Elite, Low Risk"
+LGA003,Enugu East,0.55,0.45,0.78,0.85,0.67,0.75,6.44,7.52,1,"Developing Urban, Low Risk"
+LGA004,Zaria Central,0.41,0.12,0.88,0.91,0.95,0.88,11.08,7.7,3,Critical Risk
+LGA005,Ibadan South,0.85,0.75,0.45,0.51,0.33,0.41,7.39,3.87,2,Moderate Risk
+LGA006,Calabar South,0.67,0.55,0.62,0.65,0.72,0.92,4.95,8.32,1,"Developing Urban, Low Risk"
+LGA007,Kano Municipal,0.95,0.81,0.3,0.25,0.18,0.15,12.0,8.51,0,"Urban-Elite, Low Risk"
+LGA008,Sokoto West,0.25,0.18,0.95,0.98,0.99,0.98,13.06,5.24,3,Critical Risk
+LGA009,Port Harcourt,0.88,0.67,0.38,0.58,0.45,0.68,4.78,7.01,2,Moderate Risk
+LGA010,Ikorodu Central,0.72,0.62,0.51,0.55,0.58,0.35,6.61,3.47,2,Moderate Risk
+LGA011,Akure North,0.51,0.48,0.75,0.8,0.85,0.78,7.25,5.2,1,"Developing Urban, Low Risk"
+LGA012,Maiduguri Metro,0.33,0.25,0.91,0.94,0.9,0.82,11.83,13.15,3,Critical Risk
+LGA013,Benin City West,0.75,0.58,0.58,0.6,0.65,0.7,6.33,5.62,1,"Developing Urban, Low Risk"
+LGA014,Abuja Gwagwa,0.82,0.78,0.41,0.48,0.38,0.45,9.07,7.35,2,Moderate Risk
+LGA015,Lokoja East,0.45,0.38,0.81,0.88,0.75,0.72,7.79,6.75,1,"Developing Urban, Low Risk"
+LGA016,Onitsha North,0.9,0.72,0.25,0.2,0.22,0.18,6.17,6.8,0,"Urban-Elite, Low Risk"
+LGA017,Kaduna South,0.62,0.51,0.68,0.75,0.51,0.62,10.5,7.45,1,"Developing Urban, Low Risk"
+LGA018,Ilorin West,0.58,0.41,0.72,0.81,0.55,0.58,8.47,4.55,1,"Developing Urban, Low Risk"
+LGA019,Owerri Municipal,0.8,0.65,0.48,0.52,0.41,0.51,5.48,7.03,2,Moderate Risk
+LGA020,Gombe Central,0.38,0.3,0.85,0.9,0.88,0.85,10.29,11.17,3,Critical Risk
+LGA021,Badagry Town,0.48,0.33,0.77,0.83,0.78,0.7,6.43,2.88,1,"Developing Urban, Low Risk"
+LGA022,Eket Coastal,0.6,0.5,0.67,0.69,0.6,0.77,4.66,7.91,1,"Developing Urban, Low Risk"
+LGA023,Lagos Island,0.98,0.95,0.1,0.05,0.08,0.05,6.45,3.4,0,"Urban-Elite, Low Risk"
+LGA024,Asaba Capital,0.65,0.52,0.55,0.62,0.58,0.65,6.21,6.72,1,"Developing Urban, Low Risk"
+LGA025,Katsina Town,0.3,0.2,0.9,0.95,0.92,0.9,12.98,7.61,3,Critical Risk
+LGA026,Warri South,0.7,0.57,0.52,0.59,0.53,0.6,5.52,5.77,2,Moderate Risk
+LGA027,Bauchi Central,0.43,0.35,0.83,0.86,0.8,0.79,10.31,9.84,3,Critical Risk
+LGA028,Ado Ekiti West,0.57,0.4,0.74,0.77,0.69,0.66,7.62,5.21,1,"Developing Urban, Low Risk"
+LGA029,Yola North,0.35,0.27,0.87,0.93,0.83,0.84,9.25,12.45,3,Critical Risk
+LGA030,Aba South,0.87,0.69,0.32,0.45,0.4,0.5,5.11,7.36,2,Moderate Risk
+LGA031,Sango Ota,0.83,0.77,0.4,0.49,0.37,0.43,6.67,3.22,2,Moderate Risk
+LGA032,Uyo Urban,0.64,0.53,0.63,0.67,0.62,0.74,5.03,7.94,1,"Developing Urban, Low Risk"
+LGA033,Minna East,0.5,0.43,0.76,0.79,0.74,0.69,9.6,6.55,1,"Developing Urban, Low Risk"
+LGA034,Ilesa West,0.54,0.47,0.7,0.73,0.66,0.63,7.62,4.72,1,"Developing Urban, Low Risk"
+LGA035,Awka South,0.68,0.56,0.59,0.63,0.55,0.67,6.2,7.07,1,"Developing Urban, Low Risk"
+LGA036,Suleja Area,0.79,0.74,0.43,0.51,0.42,0.48,9.2,7.18,2,Moderate Risk
+LGA037,Ogbomosho North,0.52,0.44,0.71,0.76,0.71,0.61,8.13,4.25,1,"Developing Urban, Low Risk"
+LGA038,Gashua North,0.27,0.15,0.93,0.96,0.97,0.99,12.87,11.05,3,Critical Risk
+LGA039,Ikeja CBD,0.96,0.92,0.15,0.1,0.05,0.12,6.6,3.37,0,"Urban-Elite, Low Risk"
+LGA040,Bwari Area,0.76,0.6,0.5,0.57,0.5,0.57,9.15,7.45,2,Moderate Risk
+LGA041,Maiduguri South,0.36,0.28,0.86,0.89,0.87,0.86,11.85,13.17,3,Critical Risk
+LGA042,Lagos Mainland,0.9,0.85,0.2,0.18,0.1,0.15,6.5,3.38,0,"Urban-Elite, Low Risk"
+LGA043,Ikot Ekpene,0.61,0.49,0.66,0.7,0.64,0.71,5.15,7.7,1,"Developing Urban, Low Risk"
+LGA044,Owerri West,0.84,0.68,0.47,0.54,0.43,0.52,5.45,7.01,2,Moderate Risk
+LGA045,Kaduna North,0.63,0.53,0.69,0.74,0.53,0.64,10.55,7.46,1,"Developing Urban, Low Risk"
+LGA046,Ibadan North,0.86,0.76,0.44,0.5,0.34,0.42,7.42,3.88,2,Moderate Risk
+LGA047,Calabar North,0.68,0.56,0.61,0.66,0.73,0.9,4.98,8.34,1,"Developing Urban, Low Risk"
+LGA048,Kano Dala,0.94,0.82,0.29,0.24,0.17,0.14,12.02,8.53,0,"Urban-Elite, Low Risk"
+LGA049,Sokoto East,0.26,0.17,0.94,0.97,0.98,0.97,13.08,5.26,3,Critical Risk
+LGA050,Port Harcourt East,0.89,0.68,0.37,0.57,0.46,0.67,4.8,7.03,2,Moderate Risk
