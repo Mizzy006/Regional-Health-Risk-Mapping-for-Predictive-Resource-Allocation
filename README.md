@@ -1,0 +1,2 @@
+# Regional-Health-Risk-Mapping-for-Predictive-Resource-Allocation
+Utilizing Cluster Analysis on demographic and infrastructure data, this project segments communities into four distinct Health Vulnerability Risk Profiles (Critical, High, Moderate, Low). The output is a Geospatial Visualization (Tableau) used to shift scarce public health resources from reactive distribution to proactive, equitable deployment.
